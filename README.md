@@ -65,7 +65,7 @@ Potential areas to investigate include:
 
 ## 📸 Dashboard Preview
 
-![Power BI Revenue Analysis Dashboard](screenshots/dashboard-overview.png)
+![Power BI Revenue Analysis Dashboard](Screenshots/dashboard-overview.png)
 
 ## 📚 What I Learned
 
